@@ -1,5 +1,7 @@
 # XWiki Helm Chart
 
+NOTE: Wil be maintained here: https://gitlab.com/pmoscode/helm-charts/-/tree/master/stable/xwiki This is just a "link" repository.
+
 This is the XWiki [Helm Chart](https://helm.sh/) aiming to ease the deployment in both Local and Highly Available setups.  
 
 
